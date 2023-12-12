@@ -57,6 +57,9 @@ tbody>tr>td {
 .num{
     text-align: center;
 }
+.center{
+    text-align: center;
+}
 tbody > tr:nth-child(odd){
     background-color: #44999085;
 
